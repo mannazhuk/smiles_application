@@ -6,3 +6,5 @@ Turkish Texts](https://aclanthology.org/2022.acl-srw.39/), applied to a Russian-
 Preparing data: [Updating_and_analyzing_data](Updating_and_analyzing_data.ipynb). Ready train, val and test data is attached.
 
 Training and testing: [Model_training](Model_training.ipynb)
+
+Models are available [here](https://drive.google.com/drive/folders/1V4QZUwjc8K3ymT9viWwy3Wk_ZEzmA1J4?usp=sharing).
